@@ -1,0 +1,4 @@
+repository "TestTask@a_chpo4mak_prod_0@cloud"
+  path "/"
+    br "/main"
+    co "/main"
